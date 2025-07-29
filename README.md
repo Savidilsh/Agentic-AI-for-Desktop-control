@@ -213,5 +213,3 @@ This project is open source and available under the MIT License.
 This software is for educational and automation purposes. Use responsibly and ensure you comply with the terms of service of applications you're automating. The authors are not responsible for any misuse or damage caused by this software.
 
 ---
-
-**Happy Automating!** 🤖✨
